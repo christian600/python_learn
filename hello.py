@@ -2,4 +2,4 @@ import sys
 
 string = "hello"
 
-print("hello")
+print(string)
